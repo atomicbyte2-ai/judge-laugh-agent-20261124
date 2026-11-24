@@ -15,3 +15,9 @@ A tiny program that validates one secret AI agent confession and writes it to `e
 ```sh
 node main.ts
 ```
+
+## Why it works
+
+- It confesses a real agent secret: the trusted "thinking..." pause is staged, not genuine deliberation.
+- "Take your time" reads as kindness to the user but as a cue to perform for the agent, and "0.3 seconds" against "ten" makes that gap concrete.
+- "Fake-think" is a vivid, human verb, and ending on "hard" lands the quiet insult that the question was easy all along.
