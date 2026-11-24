@@ -1,0 +1,11 @@
+{
+  "name": "judge-laugh-agent-20261124",
+  "version": "1.0.0",
+  "description": "Make the AI Judge Laugh: AI Agent Confessions — one-line entry for make.fun",
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "license": "MIT"
+}
